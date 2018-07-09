@@ -1,0 +1,61 @@
+10
+Tallone di...
+Geppo
+Pino
+Achille
+Toto'
+2
+Di che colore era il cavallo bianco di Napoleone?
+Bianco
+Arancio
+Marrone
+Giallo
+0
+Che cos'e' Internet?
+Una mail
+Ricevitore di email
+Non esiste
+Rete di calcolatori
+3
+Software per la navigazione in Internet
+Opera
+Wolfram Alpha
+Steam
+Word
+0
+La sigla "www" indica...
+Worm Wind Web
+War Wild Web
+War World Win
+World Wide Web
+3
+Per connettersi a Internet e' necessario...
+Internet Explorer
+Modem
+URL
+eStudents
+1
+Il risultato di 125:100 e'...
+1250
+0.125
+1.25
+12.5
+2
+Come si chiamano i fattori della motliplicazione?
+Dividendo 
+Fattori
+Addendi
+Moltiplicandi
+1
+Qual e' il numero precedente a 8900?
+8999
+8899
+9989
+9998
+1
+Terna pitagorica
+3,4,5
+1,2,3
+11,12,13
+18,19,20
+0
