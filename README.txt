@@ -6,7 +6,7 @@
  | |__| | | |_| | | |  / /  | |__| | | (_| | | | | | | | |  __/      / /_ 
   \___\_\  \__,_| |_| /___|  \_____|  \__,_| |_| |_| |_|  \___|     |____|
 
-==========================================================================
+========================================================================== 
                                                                           
 
 Hi,
@@ -17,4 +17,7 @@ This game has been made on Java with own graphic library. In his directory
 there is "Domande.txt", a file with all questions, answers and the numbers
 of the true answer of the game. The game is composed from 2 Java Class and
 2 JFrame Form.
-                                                                          
+
+By Luke
+                          
+                          
